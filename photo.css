@@ -1,0 +1,9 @@
+#page2, #page3, #page4, #page5{
+	display:none;
+}
+img{
+	border: 0;
+}
+a img{
+	outline:none;
+}

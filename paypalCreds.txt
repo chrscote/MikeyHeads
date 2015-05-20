@@ -1,0 +1,14 @@
+Test credentials
+
+Endpoint: api.sandbox.paypal.com
+Client ID: AXZ9MhBOxZPOD62PWxd3cD9ZFZVF3sZfHY_hLDIXDDj5mpDql-TPWqwQaqxZ
+Secret: EBHiPRCG3tNCcOI2p7LcmKfjHTnJWPbyULGmHsa0fhvaQ1Jw9a0W-YB6QG94
+
+Live credentials
+Endpoint: api.paypal.com
+Client ID: AfRFJRArQ2Y6d7ZZEKcEGHViryQ0UgRbnMPlcm60tKa4M4TEB2sRrUfJHB_W
+Secret: EAwJ-RDkpEiCyC6ewCeM8pQVWQElgAN3xuPlotQ9E1siQgWVInlBZZjx02Y9
+
+
+
+ID AQkquBDf1zctJOWGKWUEtKXm6qVhue

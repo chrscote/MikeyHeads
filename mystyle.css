@@ -1,0 +1,129 @@
+html{height:100%;position:relative}
+#header{
+	border-bottom: 1px solid #000000;
+	background-color:#F6E801;
+}
+body{
+	font-family: Arial,sans-serif;
+	color: #000;
+	line-height: 1.166;	
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+#footer {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-align: center;
+}
+p {
+	font-size:16px;
+	padding-left: 10px;
+}
+li {
+	font-size:18px;
+	color:#FF0000;
+}
+#tblHdr {
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:underline;
+	font-weight:bold;
+	font-size: 14px;
+	text-align:center;
+}
+#cart {
+	background-color:#ABB238;
+	padding:10px;
+	vertical-align:top;
+	color:white;	
+}
+#nav {
+	background-color: #2E6C3B;
+	height:100%;
+	vertical-align:top;
+}
+#nav a{
+	color:#F6E801;
+	font-family:"Cooper Std", Georgia, "Times New Roman", Times, serif;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:18px;
+}
+#nav a:hover {
+	text-decoration:underline;
+	font-weight:bold;
+	font-size:18px;
+	color: #2E6C3B;
+	background-color:#F6E801;
+}
+#nav a:visited {
+	font-weight: bold;
+	font-size: 18px;
+	font-family: "Cooper Std", Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+}
+#main {
+	background-color: #EFE9B7;
+	vertical-align:top;
+	height:100%;
+}
+#contactBox {
+	position:relative;
+	width: 350px;
+	height: 100px;
+	text-align:center;
+	vertical-align:middle;
+	font-size: 20px;
+	color: #2E6C3B;
+	margin-left:auto;
+	margin-right: auto;
+	border: #000000;
+	border-width:2px;
+	background-color: #F6E801;
+}
+
+h1{
+ font-family: Arial,sans-serif;
+ text-align:center;
+ font-size: 200%;
+ color: #2E6C3B;
+ margin: 0px;
+ padding: 5px;
+}
+
+h2{
+ font-family: Arial,sans-serif;
+ text-align:center;
+ font-size: 120%;
+ color: #2E6C3B;
+ margin: 0px;
+ padding: 5px;
+}
+
+h3{
+ font-family: Arial,sans-serif;
+ text-align:center;
+ font-size: 110%;
+ color: #2E6C3B;
+ margin: 0px;
+ padding: 10px;
+}
+
+h4{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align:left;
+	padding:5px;
+}
+
+#map_canvas {
+	width:  500px;
+	height: 400px;
+	background-color: #CCC;
+}
+#directions-panel {
+	height: 50%;
+	width: 500;
+	height: 400;
+	overflow: auto;
+	float: none;	
+}

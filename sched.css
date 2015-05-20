@@ -1,0 +1,25 @@
+#schedNite{
+	color:#C6F;
+	font-style:italic;
+}
+#schedLast{
+	color:#F33;
+	font-weight:bold;
+}
+#schedCall{
+	color:Red;
+	font-weight:bold;
+	text-decoration:underline;
+}
+#schedHdr{
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:underline;
+	font-weight:bold;
+	font-size: 20px;
+	text-align:center;
+}
+#result{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	text-align: right;
+}
